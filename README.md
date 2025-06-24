@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Luís+Guilherme!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">
+  </a>
+</p>
 
-<!--
-**LuisGuilhermePilotto/LuisGuilhermePilotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+🔭 Estudante de Engenharia de Computação na PUCC
 
-Here are some ideas to get you started:
+🌱 Em busca da minha primeira oportunidade profissional na área de tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Entusiasta no desenvolvimento de APIs com JavaScript (Node.js), sempre buscando aprender e evoluir
+
+</div>
+<div align="center">
+  <a href="https://github.com/LuisGuilhermePilotto">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuisGuilhermePilotto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGuilhermePilotto&layout=compact&langs_count=7&theme=dark"/>
+</div>
